@@ -61,3 +61,6 @@ Bluetooth Car is a robot car controlled via Bluetooth using a TM4C123 microcontr
 - Joseph Guzman
 - Robby Rimal
 
+## Additional Resources
+- Video Demo Mode 1: [https://youtu.be/xGGCauwmHAY]
+- Video Demo Mode 2: [https://youtu.be/T0b7mr1MAmc]
