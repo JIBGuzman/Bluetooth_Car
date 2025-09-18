@@ -1,0 +1,35 @@
+{
+    "files.exclude": {
+      "**/*.c": false,      // Keep .c files visible
+      "**/*.h": false,      // Keep .h files visible
+      "**/*.uvprojx": true, // Hide Keil project files (.uvprojx)
+      "**/*.uvoptx": true,  // Hide Keil options files (.uvoptx)
+      "**/*.axf": true,     // Hide Keil output files (.axf)
+      "**/*.lst": true,     // Hide listing files (.lst)
+      "**/*.map": true,     // Hide map files (.map)
+      "**/*.o": true,       // Hide object files (.o)
+      "**/*.bak": true,     // Hide backup files (.bak)
+      "**/*.hex": true,     // Hide hex files (.hex)
+      "**/*.bin": true,     // Hide binary files (.bin)
+      "**/*.lib": true,     // Hide library files (.lib)
+      "**/*.sct": true,     // Hide scatter files (.sct)
+      "**/*.inc": true,     // Hide include files (.inc)
+      "**/*.a": true,       // Hide archive files (.a)
+      "**/*.dep": true,     // Hide dependency files (.dep)
+      "**/*.crf": true,     // Hide cross-reference files (.crf)
+      "**/*.d": true,       // Hide dependency list (.d)
+      "**/*.elf": true,     // Hide ELF files (.elf)
+      "**/*.htm": true,     // Hide HTML files (.htm)
+      "**/*.lnp": true,     // Hide linker parameter files (.lnp)
+      "**/*.lst": true,     // Hide assembler listing files (.lst)
+      "**/*.plg": true,     // Hide plugin log files (.plg)
+      "**/*.uvguix": true,  // Hide GUI configuration files (.uvguix)
+      "**/*.uvopt": true,   // Hide project option files (.uvopt)
+      "**/*.log": true,     // Hide log files (.log)
+      "**/*.s": true,       // Hide assembly source files (.s)
+      "**/*.tmp": true,     // Hide temporary files (.tmp)
+      "**/*.iex": true,     // Hide intermediate files (.iex)
+      "**/*.scvd": true     // Hide System Canvas Description files (.scvd)
+    }
+  }
+  
